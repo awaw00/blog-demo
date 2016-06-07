@@ -1,0 +1,19 @@
+{
+  "name": "webpack-async-module-loading",
+  "version": "1.0.0",
+  "description": "webpack async module loading demo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "async"
+  ],
+  "author": "awaw00 <awaw0618@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.19.0",
+    "webpack": "^1.13.1"
+  }
+}
